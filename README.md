@@ -53,14 +53,23 @@ This project presents a novel framework for detecting **fine-grained emotions** 
 
 ## Sample Output
 
-| Method             | Strengths                             | Limitations                         |
-|--------------------|----------------------------------------|--------------------------------------|
-| Lexicon-based      | Simple & fast                          | Poor with figurative/metaphoric text |
-| DistilBERT (ours)  | High accuracy, context-aware, multi-label | Struggles with sarcasm/irony         |
+**Lexicon-Based Analysis**
 
-Sample visualizations include:
-- Temporal Emotion Evolution Graphs
-- Emotion Intensity Heatmaps
+![image](https://github.com/user-attachments/assets/bc5c5fee-1f1f-4e7f-b4d2-88793c990feb)
+
+**Transformer-Based Emotion Analysis:**
+
+![image](https://github.com/user-attachments/assets/fd98eeca-834f-4ab3-b917-cf84c7acb301)
+
+**Sliding Window Result:**
+![image](https://github.com/user-attachments/assets/443d6414-61db-451e-9cf4-1670f7e8666d)
+
+**Emotion Evolution Graph:**
+![image](https://github.com/user-attachments/assets/eac3d6f9-9429-4128-857d-fd8a888a0c5c)
+
+**Emotion Heatmap:**
+![image](https://github.com/user-attachments/assets/7a6e0c65-bf8a-466a-8dbb-9815a5dece09)
+
 
 ---
 
